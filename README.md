@@ -1,2 +1,3 @@
 # playground
-Test Projekt
+Test Projekt für erste Schritte auf Github
+
