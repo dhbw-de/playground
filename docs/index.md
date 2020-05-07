@@ -7,6 +7,8 @@ title: playground test site
 
 ## heading 2
 
+[WIKI Seite](https://github.com/dhbw-de/playground/wiki)
+
 
 some para
 
